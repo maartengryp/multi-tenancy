@@ -1,4 +1,5 @@
 bases:
+  - ./gatekeeper/
   - ./flagger/
   - ./common/
   - ./team1/
